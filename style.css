@@ -1,43 +1,45 @@
 body {
-    background-color: #142850;
+    background-color: #fff;
 }
 
 #container {
     width: 800px;
     margin: auto;
-    background-color: #142850;
+    background-color: #7310dd;
 }
 
 header {
-    border: solid;
     padding: 40px;
     height: 80px;
 }
 
-header h1{
-    font-size: 3rem;
+header h1 {
+    font-size: 4rem;
+    color: #ffe2ff;
 }
 
 nav {
-    border: solid;
     padding: 8px 40px;
-    background-color: #142850;
-    color: #00909e;
-    border-color: #27496d;
+    color: #ffe2ff;
+    background-color: #481380;
     font-size: 1.3rem;
 }
 
 #contents {
-    border: solid;
     padding: 40px;
     height: 400px;
+    background-color: #7f78d2;
+    color: #ffe2ff;
 }
 
 footer {
-    border: solid;
-    border-color: #dae1e7;
+    border-color: #481380;
     padding: 40px;
     height: 40px;
-    background-color: #142850;
     color: #00909e;
 }
+
+/* 481380
+7f78d2
+efb1ff
+ffe2ff */
